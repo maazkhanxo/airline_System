@@ -1,10 +1,9 @@
 Downloading after zip file
 
 Open terminal and run 
-
-'''
+```
 npm i
-'''
+```
 
 Go To directory file of frontend 
 open terminal in /frontend and run 
