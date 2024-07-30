@@ -13,7 +13,7 @@ npm i
 ```
 
 ```
-npm run devStart
+npm run start
 ```
 
 and Then go To directory file of Backend
@@ -24,6 +24,6 @@ npm i
 ```
 
 ```
-npm run start
+npm run devStart
 ```
 
