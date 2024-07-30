@@ -1,6 +1,7 @@
 Downloading after zip file
 
 Open terminal and run 
+
 '''
 npm i
 '''
