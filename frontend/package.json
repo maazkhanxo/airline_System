@@ -19,7 +19,6 @@
     "bootstrap": "^4.5.0",
     "clsx": "^1.1.1",
     "dayjs": "^1.11.2",
-    "framer-motion": "^11.3.19",
     "gsap": "^3.12.5",
     "jwt-decode": "^2.2.0",
     "react": "^16.13.1",
